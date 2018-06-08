@@ -1,16 +1,16 @@
 {
-  "name": "OxidCommunity/var_art_suche",
+  "name": "gajel/var_art_suche",
   "description": "Variantensuche per Art-Nr. möglich",
   "type": "oxideshop-module",
 
   "extra": {
     "oxideshop": {
-      "target-directory": "oxcom/var_art_suche"
+      "target-directory": "gajel/var_art_suche"
     }
   },
   "autoload": {
     "psr-4": {
-      "OxidEsales\\OxidSupport\\Variantensuche\\": "../../../source/modules/oxcom/var_art_suche"
+      "OxidEsales\\OxidSupport\\Variantensuche\\": "../../../source/modules/gajel/var_art_suche"
     }
   }
 }
