@@ -1,0 +1,25 @@
+{
+  "name": "OxidCommunity/var_art_suche",
+  "description": "Variantensuche per Art-Nr. möglich",
+  "type": "oxideshop-module",
+  "keywords": [
+    "oxid",
+    "modules",
+    "art-search"
+  ],
+  "homepage": "https://www.hd-toner.de",
+  "version": "2.0.0",
+  "license": [
+    "GNU"
+  ],
+  "extra": {
+    "oxideshop": {
+      "target-directory": "jakob/var_art_suche"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "OxidCommunity\\var_art_suche\\": "../../../source/modules/jakob/var_art_suche"
+    }
+  }
+}
