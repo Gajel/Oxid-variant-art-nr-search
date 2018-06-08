@@ -1,4 +1,4 @@
-Varianten Art.Nr.Suche
+Varianten Art.Nr. Suche
 ==============
 
 ### Shopversion
@@ -9,5 +9,5 @@ OXID eShop 6
 Erlaubt das Suchen von Artikel-Varianten per Art-Nr.
 
 
-### Installation (Kurzform)
+### Installation
 `composer require jakob/var_art_suche`
