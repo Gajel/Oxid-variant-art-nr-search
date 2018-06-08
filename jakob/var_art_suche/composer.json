@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "OxidCommunity\\var_art_suche\\": "../../../source/modules/jakob/var_art_suche"
+      "Jakob\\var_art_suche\\": "../../../source/modules/jakob/var_art_suche"
     }
   }
 }
