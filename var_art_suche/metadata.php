@@ -13,7 +13,7 @@ $aModule = array(
     'thumbnail'   => 'out/pictures/ecs.png',
     'version'     => '2.0.0',
     'author'      => '<strong style="font-size: 17px;color:#04B431;">Jakob</strong>',
-    'url'         => 'https://www.hd-toner.de/',
+    'url'         => 'https://',
     'email'       => 'jk@trensco.de',
     'extend'      => array(
 		\OxidEsales\Eshop\Application\Model\Search::class       => \var_art_suche\Model\Search::class,
