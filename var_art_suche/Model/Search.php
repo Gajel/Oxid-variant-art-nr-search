@@ -6,7 +6,7 @@
 
 //namespace OxidEsales\EshopCommunity\Application\Model;
 
-namespace jakob\var_art_suche\Model;
+namespace var_art_suche\Model;
 
 //use oxRegistry;
 //use oxDb;

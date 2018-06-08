@@ -7,19 +7,19 @@
     "modules",
     "art-search"
   ],
-  "homepage": "https://www.hd-toner.de",
+  "homepage": "https://",
   "version": "2.0.0",
   "license": [
     "GNU"
   ],
   "extra": {
     "oxideshop": {
-      "target-directory": "jakob/var_art_suche"
+      "target-directory": "oxcom/var_art_suche"
     }
   },
   "autoload": {
     "psr-4": {
-      "Jakob\\var_art_suche\\": "../../../source/modules/jakob/var_art_suche"
+      "OxidCommunity\\var_art_suche\\": "../../../source/modules/oxcom/var_art_suche"
     }
   }
 }

@@ -16,6 +16,6 @@ $aModule = array(
     'url'         => 'https://www.hd-toner.de/',
     'email'       => 'jk@trensco.de',
     'extend'      => array(
-		\OxidEsales\Eshop\Application\Model\Search::class       => \jakob\var_art_suche\Model\Search::class,
+		\OxidEsales\Eshop\Application\Model\Search::class       => \var_art_suche\Model\Search::class,
     ),
 );
