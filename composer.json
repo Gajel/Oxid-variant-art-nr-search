@@ -1,0 +1,20 @@
+{
+    "name": "trensco/varartsuche",
+    "description": "Variantensuche per Art-Nr.",
+    "type": "oxideshop-module",
+    "keywords": ["oxid", "modules", "eShop"],
+    "version": "2.0.0",
+    "license": [
+        "GPL-3.0-only"
+    ],
+    "extra": {
+        "oxideshop": {
+            "target-directory": "trensco/VarArtSuche"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Trensco\\VarArtSuche\\": "../../../source/modules/trensco/VarArtSuche"
+        }
+    }
+}

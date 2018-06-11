@@ -4,12 +4,7 @@
  * See LICENSE file for license details.
  */
 
-//namespace OxidEsales\EshopCommunity\Application\Model;
-
-namespace var_art_suche\Model;
-
-//use oxRegistry;
-//use oxDb;
+namespace Trensco\VarArtSuche\Model;
 
 class Search extends Search_parent
 {

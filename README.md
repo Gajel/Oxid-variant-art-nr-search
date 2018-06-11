@@ -10,4 +10,4 @@ Erlaubt das Suchen von Artikel-Varianten per Art-Nr.
 
 
 ### Installation
-`composer require jakob/var_art_suche`
+`composer require trensco/varartsuche`
